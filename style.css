@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hero .card-title {
+    margin-top: 150px;
+}
+
+.menu {
+    background-color: #F6F6F6;
+}
+
+.menu .card{
+    background-color: #131313;
+    color: #F6F6F6;
+}
+
+.menu .card img{
+    border: solid white 2px ;
+}
+
+.menu .card .card-title{
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.menu .card .btn{
+    
+    font-weight: 700;
+}
